@@ -12,7 +12,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #ff2fff; /* color of the scroll thumb */
+  background-color: #ee0823; /* color of the scroll thumb */
   border-radius: 15px; /* roundness of the scroll thumb */
 }
 
@@ -244,7 +244,7 @@ ol li {
 
 .btn-common:hover {
   /* color: #fff; */
-  background-image: linear-gradient(65deg, rgb(253, 45, 191) 0, #ff2fff 100%);
+  background-image: linear-gradient(65deg, rgb(238,8,35) 0, #ee0823 100%);
   color: #000;
   font-weight: bold !important;
   box-shadow: 0 8px 16px rgba(226, 243, 73, 0.4);
@@ -1573,7 +1573,7 @@ h1 {
 }
 
 .single-intro-text:hover i {
-  background-image: linear-gradient(65deg, rgb(253, 45, 191) 0, #ff2fff 100%);
+  background-image: linear-gradient(65deg, rgb(238,8,35) 0, #ee0823 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -1754,7 +1754,7 @@ h1 {
 }
 
 .team-item .overlay-social-icon .social-icons li .lni-google-plus:hover {
-  background: #ea4335;
+  background: #ee0823;
 }
 
 .team-item .overlay-social-icon .social-icons li .lni-pinterest {
@@ -1762,7 +1762,7 @@ h1 {
 }
 
 .team-item .overlay-social-icon .social-icons li .lni-pinterest:hover {
-  background: #f307b8;
+  background: #ee0823;
 }
 
 .team-item .info-text {
@@ -1871,7 +1871,7 @@ h1 {
 }
 
 .register-link {
-  color: #ff2fff !important;
+  color: #ee0823 !important;
   cursor: pointer;
   font-weight: 700;
 }
@@ -2578,7 +2578,7 @@ img#nav-logo {
   width: 100px;
   padding: 15px 0;
   background: rgba(255, 255, 255, 0.12);
-  border-top: 5px solid #ff2fff;
+  border-top: 5px solid #0099ff;
 }
 
 #clock div h3 {
